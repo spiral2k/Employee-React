@@ -104,7 +104,7 @@ export default class EditProfile extends Component {
                         <div className="content">
 
                             <div className="card">
-                                <img src="../../images/visa.png"/>
+                                <img src="../images/visa.png"/>
 
                                 <span className="date">03/2015</span>
                                 <span className="last-nums">1234</span>
